@@ -24,7 +24,7 @@ func _physics_process(delta) -> void:
 	
 	
 	# MAnage SpringArm
-	var springarm = get_node("SpringArm");
+#	var springarm = get_node("SpringArm");
 #	springarm.translation = translation - Vector3.BACK * 5
 #	springarm.translation.y = 4
 
